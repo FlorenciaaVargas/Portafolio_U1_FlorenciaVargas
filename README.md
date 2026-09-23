@@ -3,9 +3,9 @@
 # Ensayo de compresion de un hormigon
 
 ## 1. Geometria y supuestos del ensayo
-- **Diametro (D):** 150 mm
-- **Altura (h):** 300 mm
-- **Area (A):** pi*((D/2)^2) = 17.671,5 mm^2
+- **Diámetro de la probeta ($D$):** 150 mm
+- **Altura de la probeta ($H$):** 300 mm
+- **Área de la sección transversal ($A$):** $\pi \times (D/2)^2 = 17671.46 \text{ mm}^2$
 - **Unidades:**
   - Carga (P): kN
   - Desplazamiento ($u$): mm
