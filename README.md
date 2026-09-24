@@ -1,6 +1,7 @@
 # Ensayo de compresion de un hormigon
 
-## 1. Problema
+## 1. Propósito
+Este proyecto contiene el procesamiento, análisis de datos y generación de resultados para un ensayo de compresión en probetas cilíndricas de hormigón. El objetivo principal es garantizar que el flujo de trabajo sea auditable, estructurado y 100% reproducible por terceros.
 
 ## 2. Geometria y supuestos del ensayo
 - **Diámetro de la probeta ($D$):** 150 mm
