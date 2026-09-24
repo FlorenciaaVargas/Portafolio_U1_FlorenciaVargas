@@ -1,5 +1,3 @@
-# Portafolio_U1_FlorenciaVargas
-
 # Ensayo de compresion de un hormigon
 
 ## 1. Problema
